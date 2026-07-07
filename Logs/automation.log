@@ -1,0 +1,25 @@
+2026-07-07 17:43:14 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Diwakar\Eclipse_New\SeleniumFrameWork\Master.xml] otherwise TestNG may fail or not work as expected.
+2026-07-07 17:43:57 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Diwakar\Eclipse_New\SeleniumFrameWork\Master.xml] otherwise TestNG may fail or not work as expected.
+2026-07-07 17:44:02 INFO  TC_001_AccountRegistrationTest:20 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-07-07 17:44:02 INFO  TC_001_AccountRegistrationTest:25 - Clicked on MyAccount Link.. 
+2026-07-07 17:44:03 INFO  TC_001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2026-07-07 17:44:03 INFO  TC_001_AccountRegistrationTest:30 - Providing customer details...
+2026-07-07 17:44:05 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message..
+2026-07-07 17:44:05 INFO  TC_001_AccountRegistrationTest:43 - Test passed
+2026-07-07 17:44:05 INFO  TC_001_AccountRegistrationTest:54 - ***** Finished TC001_AccountRegistrationTest *****
+2026-07-07 17:48:00 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Diwakar\Eclipse_New\SeleniumFrameWork\Master.xml] otherwise TestNG may fail or not work as expected.
+2026-07-07 17:48:03 INFO  TC_001_AccountRegistrationTest:20 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-07-07 17:48:03 INFO  TC_001_AccountRegistrationTest:25 - Clicked on MyAccount Link.. 
+2026-07-07 17:48:04 INFO  TC_001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2026-07-07 17:48:04 INFO  TC_001_AccountRegistrationTest:30 - Providing customer details...
+2026-07-07 17:48:06 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message..
+2026-07-07 17:48:06 INFO  TC_001_AccountRegistrationTest:43 - Test passed
+2026-07-07 17:48:06 INFO  TC_001_AccountRegistrationTest:54 - ***** Finished TC001_AccountRegistrationTest *****
+2026-07-07 17:53:44 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Diwakar\Eclipse_New\SeleniumFrameWork\Master.xml] otherwise TestNG may fail or not work as expected.
+2026-07-07 17:53:48 INFO  TC_001_AccountRegistrationTest:20 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-07-07 17:53:49 INFO  TC_001_AccountRegistrationTest:25 - Clicked on MyAccount Link.. 
+2026-07-07 17:53:49 INFO  TC_001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2026-07-07 17:53:49 INFO  TC_001_AccountRegistrationTest:30 - Providing customer details...
+2026-07-07 17:53:52 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message..
+2026-07-07 17:53:52 INFO  TC_001_AccountRegistrationTest:43 - Test passed
+2026-07-07 17:53:52 INFO  TC_001_AccountRegistrationTest:54 - ***** Finished TC001_AccountRegistrationTest *****
